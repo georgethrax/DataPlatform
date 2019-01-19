@@ -40,3 +40,10 @@ https://lutzroeder.github.io/netron/
 
 可视化结果：
 <p align='center'><img src='anova_svm.png' width='800'></a></p>
+
+
+# Pipeline
+
+## Pipeline.fit Pipeline.predict
+
+<p align='center'><img src='pipeline-illustration.webp' width='800'></a></p>
